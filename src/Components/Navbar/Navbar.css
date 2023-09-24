@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black;
+    padding: 20px;
+}
+.nav-brand{
+    display: inline-block;
+    color: white;
+    margin-right: 200px;
+}
+.nav-menu{
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+}
